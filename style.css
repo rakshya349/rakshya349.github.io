@@ -1,0 +1,33 @@
+body
+{
+background-color: #000000;
+color: #ffffff;
+}
+
+h1
+{
+font-size: 20px;
+}
+
+p
+{
+font-size: 12px;
+color: green;
+}
+
+.div
+{
+width: 100px;
+height: 100px;
+border: 2px dotted;
+}
+
+ol
+{
+list-style-type: upper-alpha;
+}
+
+ul
+{
+list-style-type: square;
+}
